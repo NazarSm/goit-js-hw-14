@@ -13,5 +13,3 @@ incrementBtn.addEventListener('click', () => {
     counterValue++;
     value.textContent = String(counterValue);
 });
-
-
